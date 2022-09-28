@@ -1,0 +1,6 @@
+,Domain,Subdomain,Amazon Name,Account Name,Resource Id,Email,Potential Savings Without Tool,Potential Savings,Service
+0,B,C,Org_DevOps,Org_DevOps,xxxxxxxxxxxxxx,DevOps@example.com,40.266761669960204,17.074514945431268,EKS
+1,C,D,Org_Others,Org_Others,2222222222222,General@example.com,41.12762807172331,15.014526589188776,Cloud9
+2,A,D,Ord_Data,Ord_Data,11111111111,Data@example.com,28.516431718882185,18.74420516790097,Cloud9
+3,C,D,Org_Marketing,Org_Marketing,11111111111,Marketing@example.com,2.2917163562121976,0.17192460324223502,EC2
+4,D,B,Ord_Data,Ord_Data,xxxxxxxxxxxxxx,Data@example.com,22.723703363049204,3.344739301591537,EKS
